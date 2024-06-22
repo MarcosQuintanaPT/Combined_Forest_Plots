@@ -1,2 +1,3 @@
 # Combined_Forest_Plots
-Combine various forest plots from a meta-analysis object
+With this code you can combine various forest plots in the same graph for various sub-analyses
+
